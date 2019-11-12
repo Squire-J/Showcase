@@ -1,0 +1,7 @@
+Members(MemberID, MemberName, Tier, CampaignCount, Salary)
+Campaigns(CampaignID, Duration, Budget, CampaignName)
+Phases(PhaseName, Status, ParentCampaign)
+Events(Location, EventName, Date)
+Donations(MemberID, CampaignID)
+Payments(CampaignID, MemberID)
+TakesPartIn(MemberID, CampaignID)
