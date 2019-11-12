@@ -1,0 +1,74 @@
+{
+    "Users": [
+        {
+        "id":"666",
+        "readPermissions":[1,2,3],
+        "writePermissions":[1,2,3],
+        "owned":[1,2,3]
+        },
+
+        {
+        "id":"333",
+        "readPermissions":[1,2,3],
+        "writePermissions":[1,2],
+        "owned":[1]
+        },
+
+        {
+        "id":"069",
+        "readPermissions":[],
+        "writePermissions":[],
+        "owned":[]
+        }
+    ],
+
+    "Projects":[
+        {
+            "id": "1",
+            "usecases":[]
+        },
+
+        {
+            "id": "2",
+            "usecases":[]
+        },
+
+        {
+            "id": "3",
+            "usecases":[]
+        }
+    ],
+
+    "UseCases":[
+        {
+            "id":"100",
+            "goal":"",
+            "scope":"",
+            "level":"",
+            "primearyActor":"",
+            "priority":"",
+            "frequency":""
+
+        },
+
+        {
+            "id":"200",
+            "goal":"",
+            "scope":"",
+            "level":"",
+            "primearyActor":"",
+            "priority":"",
+            "frequency":""
+        },
+
+        {
+            "id":"300",
+            "goal":"",
+            "scope":"",
+            "level":"",
+            "primearyActor":"",
+            "priority":"",
+            "frequency":""
+        }
+    ]
+}
